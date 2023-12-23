@@ -34,5 +34,8 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Clone the repository:
 
-```bash
+
 git clone <repository-url>
+
+ ### Screenshot
+![Screenshot 2023-12-23 141527](https://github.com/dipin736/Todo-List/assets/114206930/41cc19e5-6a10-4251-aaba-62e0c1d26e84)
