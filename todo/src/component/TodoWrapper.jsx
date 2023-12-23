@@ -4,8 +4,7 @@ import React, { useEffect, useState } from 'react';
 import { v4 as uuidv4 } from 'uuid';
 import TodoForm from './Todoform1';
 import Todo from './Todo1';
-// import Todo from './todo';
-// import TodoForm from './todoform';
+
 
 const TodoWrapper = () => {
   const [todos, setTodos] = useState([]);
